@@ -1,5 +1,7 @@
 # **Transcendence Frontend**  
 
+[Play the game here](https://nomanmunir.github.io/ft_transcendence_frontend/)
+
 ## **Project Overview**  
 The Transcendence frontend project is a feature-rich **Pong Game** web application designed using **vanilla JavaScript**, following modular architecture principles, and enhanced by **Bootstrap**. This interactive web application provides an engaging user experience with multi-language support, AI opponents, responsive design, and browser compatibility.  
 
