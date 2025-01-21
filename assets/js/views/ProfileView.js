@@ -22,7 +22,7 @@ export function ProfileView() {
     <div class="profile-section">
     <div class="col mb-3 d-flex justify-content-center align-items-center" style="height: 100px;">
       <div class="profile-img-container">  
-        <img src="../../img/profile.png" height="100px" width="100px" class="profile-img" alt="Profile Image">
+        <img src="./assets/img/profile.png" height="100px" width="100px" class="profile-img" alt="Profile Image">
       </div>
     </div>
     <div class="row mb-3">

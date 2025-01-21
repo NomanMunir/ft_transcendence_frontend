@@ -15,7 +15,7 @@ export function SelectPong() {
       <div class="row gy-4">
         <div class="col-lg-4 col-md-6 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
           <div class="card">
-            <img src="../../img/pp_single_img.webp" alt="" class="img-fluid" data-i18n="[alt]ppmode.singleImg">
+            <img src="./assets/img/pp_single_img.webp" alt="" class="img-fluid" data-i18n="[alt]ppmode.singleImg">
             <div class="card-body">
               <h3><a href="#form" id="one_player" class="stretched-link" data-i18n="ppmode.single">Single Player</a></h3>
               <div class="card-content">
@@ -27,7 +27,7 @@ export function SelectPong() {
         
         <div class="col-lg-4 col-md-6 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
           <div class="card">
-            <img src="../../img/pp-multi-img.webp" alt="" class="img-fluid" data-i18n="[alt]ppmode.multiImg">
+            <img src="./assets/img/pp-multi-img.webp" alt="" class="img-fluid" data-i18n="[alt]ppmode.multiImg">
             <div class="card-body">
               <h3><a href="#multi_pong" class="stretched-link" data-i18n="ppmode.multi">Multiple Player</a></h3>
               <div class="card-content">
@@ -39,7 +39,7 @@ export function SelectPong() {
 
         <div class="col-lg-4 col-md-6 aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">
           <div class="card">
-            <img src="../../img/pp_tournament_img.webp" alt="" class="img-fluid" data-i18n="[alt]ppmode.tournamentImg">
+            <img src="./assets/img/pp_tournament_img.webp" alt="" class="img-fluid" data-i18n="[alt]ppmode.tournamentImg">
             <div class="card-body">
               <h3><a href="#form" id="eight_players" class="stretched-link" data-i18n="ppmode.tournament">Tournament</a></h3>
               <div class="card-content">
