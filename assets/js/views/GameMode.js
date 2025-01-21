@@ -15,7 +15,7 @@ export function GameMode() {
       <div class="row gy-4">
         <div class="col-lg-6 col-md-6 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
           <div class="card" id="one-round">
-            <img src="/assets/img/gamemode-one.jpg" alt="" class="img-fluid" data-i18n="[alt]gamemode.twoImg">
+            <img src="../../img/gamemode-one.jpg" alt="" class="img-fluid" data-i18n="[alt]gamemode.twoImg">
             <div class="card-body">
               <h3><a href="#" class="stretched-link" data-i18n="gamemode.two">One Round</a></h3>
               <div class="card-content">
@@ -26,7 +26,7 @@ export function GameMode() {
         </div>
         <div class="col-lg-6 col-md-6 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
           <div class="card" id="tournament-three">
-            <img src="/assets/img/gamemode-tournament.jpg" alt="" class="img-fluid" data-i18n="[alt]gamemode.threeImg">
+            <img src="../../img/gamemode-tournament.jpg" alt="" class="img-fluid" data-i18n="[alt]gamemode.threeImg">
             <div class="card-body">
               <h3><a href="#" class="stretched-link" data-i18n="gamemode.three">Tournament Style</a></h3>
               <div class="card-content">

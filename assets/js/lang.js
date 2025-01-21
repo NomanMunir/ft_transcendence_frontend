@@ -14,7 +14,7 @@ async function fetchLang(lang)
   if (stateLang && stateLang[lang] && Object.keys(stateLang[lang]).length > 0)
     return getState().language[lang];
     try {
-      const response = await fetch(`/assets/js/language/${lang}.json`);
+      const response = await fetch(`js/language/${lang}.json`);
       if (!response.ok)
         throw new Error("Language file not found");
       const data = await response.json();

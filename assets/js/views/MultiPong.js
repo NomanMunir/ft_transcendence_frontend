@@ -15,7 +15,7 @@ export function MultiPong() {
       <div class="row gy-4">
         <div class="col-lg-4 col-md-6 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
           <div class="card" id="two-players">
-            <img src="/assets/img/pp-two-img.webp" alt="" class="img-fluid" data-i18n="[alt]ppmulti.twoImg">
+            <img src="../../img/pp-two-img.webp" alt="" class="img-fluid" data-i18n="[alt]ppmulti.twoImg">
             <div class="card-body">
               <h3><a href="#" class="stretched-link" data-i18n="ppmulti.two">2 Players</a></h3>
             </div>
@@ -23,7 +23,7 @@ export function MultiPong() {
         </div>
         <div class="col-lg-4 col-md-6 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
           <div class="card" id="three-players">
-            <img src="/assets/img/pp-three-img.webp" alt="" class="img-fluid" data-i18n="[alt]ppmulti.threeImg">
+            <img src="../../img/pp-three-img.webp" alt="" class="img-fluid" data-i18n="[alt]ppmulti.threeImg">
             <div class="card-body">
               <h3><a href="#" class="stretched-link" data-i18n="ppmulti.three">3 Players</a></h3>
             </div>
@@ -31,7 +31,7 @@ export function MultiPong() {
         </div>
         <div class="col-lg-4 col-md-6 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
           <div class="card" id="four-players">
-            <img src="/assets/img/pp-four-img.webp" alt="" class="img-fluid" data-i18n="[alt]ppmulti.fourImg">
+            <img src="../../img/pp-four-img.webp" alt="" class="img-fluid" data-i18n="[alt]ppmulti.fourImg">
             <div class="card-body">
               <h3><a href="#" class="stretched-link" data-i18n="ppmulti.four">4 Players</a></h3>
             </div>

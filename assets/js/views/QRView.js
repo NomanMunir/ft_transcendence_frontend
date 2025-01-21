@@ -7,7 +7,7 @@ export function QRView() {
           <div class="text-center">
             <div class="row d-flex flex-column align-items-center justify-content-center" data-aos="zoom-out">
                 <div class="col-lg-6 col-md-6">
-                    <img id="qrImg" src="/assets/img/profile.png" alt="QR image" class="img-fluid mb-3">
+                    <img id="qrImg" src="../../img/profile.png" alt="QR image" class="img-fluid mb-3">
                     <p class="text-white" data-i18n="qr.description">Scan to activate 2FA.</p>
                 </div>
                 <form id="qrForm" class="d-flex flex-column align-items-center justify-content-center g-3" novalidate="">
