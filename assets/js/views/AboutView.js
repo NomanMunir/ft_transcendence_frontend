@@ -61,7 +61,7 @@ export function AboutView() {
 
         <div class="col-lg-3 col-md-6 aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">
           <div class="card">
-            <img src="./assets/img/team/team-5.jpg" alt="" class="img-fluid" data-i18n="[alt]aboutview.teamfiveImg">
+            <img src="/assets/img/team/team-5.jpg" alt="" class="img-fluid" data-i18n="[alt]aboutview.teamfiveImg">
             <div class="card-body">
               <h3><a class="stretched-link" data-i18n="aboutview.teamfive">Alaa Bashir</a></h3>
               <div class="card-content">
